@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EnglishSpeakingCoach.API</name>
+    </assembly>
+    <members>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.AuthController.Register(EnglishSpeakingCoach.Application.DTOs.RegisterRequest)">
+            <summary>
+            Register a new user
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.AuthController.Login(EnglishSpeakingCoach.Application.DTOs.LoginRequest)">
+            <summary>
+            Login user
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.AuthController.GetUser(System.Int32)">
+            <summary>
+            Get user by ID
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.LessonsController.GetAll">
+            <summary>
+            Get all active lessons
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.LessonsController.GetByLevel(System.String)">
+            <summary>
+            Get lessons by level (Beginner, Intermediate, Advanced)
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.LessonsController.GetById(System.Int32)">
+            <summary>
+            Get lesson by ID
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.LessonsController.Create(EnglishSpeakingCoach.Application.DTOs.CreateLessonRequest)">
+            <summary>
+            Create a new lesson
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.LessonsController.Update(System.Int32,EnglishSpeakingCoach.Application.DTOs.UpdateLessonRequest)">
+            <summary>
+            Update an existing lesson
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.LessonsController.Delete(System.Int32)">
+            <summary>
+            Delete (soft delete) a lesson
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.ProgressController.GetWeeklyProgress(System.Int32)">
+            <summary>
+            Get weekly progress summary for a user
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.ProgressController.GetMonthlyProgress(System.Int32)">
+            <summary>
+            Get monthly progress summary for a user
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.ProgressController.GetHistory(System.Int32,System.Int32)">
+            <summary>
+            Get progress history for a user
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.ProgressController.UpdateProgress(System.Int32)">
+            <summary>
+            Update progress metrics for a user (typically called at end of day)
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.RecordingsController.Upload(EnglishSpeakingCoach.Application.DTOs.UploadRecordingRequest)">
+            <summary>
+            Upload a new recording
+            </summary>
+            <remarks>
+            In production, this would handle actual file upload to object storage.
+            For now, it accepts the audio URL where the file has been uploaded.
+            </remarks>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.RecordingsController.GetById(System.Int32)">
+            <summary>
+            Get recording by ID
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.RecordingsController.GetSessionRecordings(System.Int32)">
+            <summary>
+            Get all recordings for a session
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.RecordingsController.GetAnalysis(System.Int32)">
+            <summary>
+            Get recording analysis with transcript and feedback
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.SessionsController.StartSession(EnglishSpeakingCoach.Application.DTOs.StartSessionRequest)">
+            <summary>
+            Start a new practice session
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.SessionsController.EndSession(System.Int32,EnglishSpeakingCoach.Application.DTOs.EndSessionRequest)">
+            <summary>
+            End an active session
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.SessionsController.GetById(System.Int32)">
+            <summary>
+            Get session by ID
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.SessionsController.GetUserSessions(System.Int32)">
+            <summary>
+            Get all sessions for a user
+            </summary>
+        </member>
+        <member name="M:EnglishSpeakingCoach.API.Controllers.SessionsController.GetSummary(System.Int32)">
+            <summary>
+            Get session summary with statistics
+            </summary>
+        </member>
+    </members>
+</doc>

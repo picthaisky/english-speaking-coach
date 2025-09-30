@@ -1,0 +1,6 @@
+@EnglishSpeakingCoach.API_HostAddress = http://localhost:5051
+
+GET {{EnglishSpeakingCoach.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

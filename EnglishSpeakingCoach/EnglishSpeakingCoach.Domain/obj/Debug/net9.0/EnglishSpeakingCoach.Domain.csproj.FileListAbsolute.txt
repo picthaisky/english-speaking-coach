@@ -1,0 +1,12 @@
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/bin/Debug/net9.0/EnglishSpeakingCoach.Domain.deps.json
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/bin/Debug/net9.0/EnglishSpeakingCoach.Domain.dll
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/bin/Debug/net9.0/EnglishSpeakingCoach.Domain.pdb
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/EnglishSpeakingCoach.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/EnglishSpeakingCoach.Domain.AssemblyInfoInputs.cache
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/EnglishSpeakingCoach.Domain.AssemblyInfo.cs
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/EnglishSpeakingCoach.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/EnglishSpeakingCoach.Domain.sourcelink.json
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/EnglishSpeakingCoach.Domain.dll
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/refint/EnglishSpeakingCoach.Domain.dll
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/EnglishSpeakingCoach.Domain.pdb
+/home/runner/work/ADM-System/ADM-System/EnglishSpeakingCoach/EnglishSpeakingCoach.Domain/obj/Debug/net9.0/ref/EnglishSpeakingCoach.Domain.dll
