@@ -142,5 +142,21 @@ Best practices Performance & UX
 ## 📂 Docs
 - [AI_PROMPT.md](./docs/AI_PROMPT.md) → เก็บ Prompt เต็ม แยกไฟล์  
 - [API_SPEC.md](./docs/API_SPEC.md) → OpenAPI/Swagger  
-- [SYSTEM_DESIGN.md](./docs/SYSTEM_DESIGN.md) → แผนภาพ Architecture + ERD  
+- [SYSTEM_DESIGN.md](./docs/SYSTEM_DESIGN.md) → แผนภาพ Architecture + ERD
+
+---
+
+## ✅ Usage
+1. ใช้ Prompt ข้างต้นใน AI เพื่อ Generate โค้ดและโครงสร้างโปรเจกต์  
+2. ปรับแต่งตาม Iteration: เช่น เพิ่ม Feature, Multi-language, Dark mode  
+3. เก็บ Output กลับเข้า repo (ใน `/src` + `/docs`)  
+
+---
+
+## 🚀 Getting Started
+
+### Clone Repo
+```bash
+git clone https://github.com/USERNAME/english-speaking-coach.git
+cd english-speaking-coach
 
