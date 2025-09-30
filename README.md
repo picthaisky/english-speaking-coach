@@ -137,3 +137,10 @@ UI Mockup (hierarchy)
 
 Best practices Performance & UX
 
+---
+
+## 📂 Docs
+- [AI_PROMPT.md](./docs/AI_PROMPT.md) → เก็บ Prompt เต็ม แยกไฟล์  
+- [API_SPEC.md](./docs/API_SPEC.md) → OpenAPI/Swagger  
+- [SYSTEM_DESIGN.md](./docs/SYSTEM_DESIGN.md) → แผนภาพ Architecture + ERD  
+
