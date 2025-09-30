@@ -157,6 +157,6 @@ Best practices Performance & UX
 
 ### Clone Repo
 ```bash
-git clone https://github.com/USERNAME/english-speaking-coach.git
+git clone https://github.com/picthaisky/english-speaking-coach.git
 cd english-speaking-coach
 
